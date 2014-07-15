@@ -1,0 +1,4 @@
+C:\Users\User\Documents\GitHub\UBSTechTest\UBSTechTest\UBS.SentenceParser\bin\Debug\SentenceParser.dll
+C:\Users\User\Documents\GitHub\UBSTechTest\UBSTechTest\UBS.SentenceParser\bin\Debug\SentenceParser.pdb
+C:\Users\User\Documents\GitHub\UBSTechTest\UBSTechTest\UBS.SentenceParser\obj\Debug\SentenceParser.dll
+C:\Users\User\Documents\GitHub\UBSTechTest\UBSTechTest\UBS.SentenceParser\obj\Debug\SentenceParser.pdb

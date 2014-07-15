@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\UBSTechTest\UBSTechTest\UBS.SentenceParser.Tests\obj\Debug\UBS.SentenceParser.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\UBSTechTest\UBSTechTest\UBS.SentenceParser.Tests\bin\Debug\SentenceParserTests.dll
+C:\Users\User\Documents\GitHub\UBSTechTest\UBSTechTest\UBS.SentenceParser.Tests\bin\Debug\SentenceParserTests.pdb
+C:\Users\User\Documents\GitHub\UBSTechTest\UBSTechTest\UBS.SentenceParser.Tests\bin\Debug\SentenceParser.dll
+C:\Users\User\Documents\GitHub\UBSTechTest\UBSTechTest\UBS.SentenceParser.Tests\bin\Debug\SentenceParser.pdb
+C:\Users\User\Documents\GitHub\UBSTechTest\UBSTechTest\UBS.SentenceParser.Tests\obj\Debug\SentenceParserTests.dll
+C:\Users\User\Documents\GitHub\UBSTechTest\UBSTechTest\UBS.SentenceParser.Tests\obj\Debug\SentenceParserTests.pdb
